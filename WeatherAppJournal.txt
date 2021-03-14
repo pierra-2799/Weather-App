@@ -1,0 +1,22 @@
+/*-------Ideas and Daily Task------*/
+
+Idea ---> Build a weather app.
+    Should conatin : 
+        1. Home Page -- where it detects the users current location 
+        and displays the weather condtion. (By default)
+        2. Search Bar --  where the user can input the place and get
+        the weather conditions.
+        3. Forecast Page -- where the user can see the forecast for
+        given location.
+
+Top -> Search bar
+Middle -> Home Page
+Bottom -> Forecast Page
+
+Daily Jorunal : 
+15/03/2021 --> 
+Designing the layout.
+{Thinking of adding details in the beginning before going for the 
+forecast. Details will consist -> Sunrise,
+ Sunset, Pressure, Wind, Humidity, ground_level.
+}
